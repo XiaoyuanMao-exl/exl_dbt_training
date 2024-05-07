@@ -1,0 +1,6 @@
+version: 2
+
+models:
+  - name: int_customers_joined_to_employees
+  - name: int_invoice_lines_joined_to_invoices
+  - name: int_tracks_joined_to_albums_artists_genre_mediatype
