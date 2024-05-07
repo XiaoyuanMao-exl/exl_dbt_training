@@ -45,3 +45,5 @@ joined as (
     left join artists
         on artists.artist_id = albums.artist_id
 )
+
+select * from joined
